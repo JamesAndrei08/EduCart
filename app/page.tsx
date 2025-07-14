@@ -8,7 +8,7 @@ export default function Home() {
       {/* TITLE */}
       <div className="h-[60vh] flex flex-col justify-center items-center bg-[#BA3A2C] text-white">
         <div className="flex flex-col gap-5 items-center text-center">
-          <h1 className="text-5xl lg:text-6xl font-semibold">Your University's Marketplace</h1>
+          <h1 className="text-5xl lg:text-6xl font-semibold">Your University&apos;s Marketplace</h1>
           <p className="lg:text-[18px] font-medium text-center">Buy, sell, rent, and exchange academic resources within your trusted <br className="hidden md:block" />university community.</p>
           <div className="flex items-center bg-white rounded-full p-1 pl-4 w-full max-w-xl">
             <input 
