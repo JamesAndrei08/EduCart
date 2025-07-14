@@ -1,7 +1,6 @@
 'use client';
 
 import { BadgeCheck, CalendarCheck2 } from 'lucide-react';
-import { Icon } from '@iconify/react';
 
 const features = [
   {

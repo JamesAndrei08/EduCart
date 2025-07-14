@@ -4,7 +4,7 @@ import Image from "next/image"
 import Link from "next/link";
 import { usePathname } from "next/navigation"
 import { Button } from "./ui/button";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function Header() {
     const [isOpen, setIsOpen] = useState(false);
